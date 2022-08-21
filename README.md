@@ -3,4 +3,4 @@
 # Изучаемые вопросы:
 - [Атрибуты (setattr, getattr, delattr, __dict__)](./docs/attributes.md)
 - [@statickmethod](./docs/statickmethod.md)
-- [__slots__](./docs/slots.md)
+- [\_\_slots\_\_](./docs/slots.md)
